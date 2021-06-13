@@ -1,0 +1,9 @@
+module nor_gate(out,in1,in2);
+output out;
+input in1,in2;
+wire in1bar,in2bar,w;
+nand(in1bar,in1,in1);
+nand(in2bar,in2,in2);
+nand(w,in1bar,in2bar);
+nand(out,w,w);
+endmodule 

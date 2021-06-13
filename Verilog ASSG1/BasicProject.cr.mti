@@ -1,0 +1,295 @@
+C:/intelFPGA/18.0/modelsim_ase/win32aloem/DEMUX_8WAY_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/DEMUX_8WAY_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DEMUX_8WAY_TB
+
+Top level modules:
+	DEMUX_8WAY_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX_16BIT_4WAY_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX_16BIT_4WAY_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_16BIT_4WAY_TB
+
+Top level modules:
+	MUX_16BIT_4WAY_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/OR.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/OR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module OR
+
+Top level modules:
+	OR
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/NOT_GATE.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/NOT_GATE.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module NOT
+
+Top level modules:
+	NOT
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/AND_16.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/AND_16.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module AND_16
+
+Top level modules:
+	AND_16
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/XOR_16BIT_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/XOR_16BIT_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module XOR_16BIT_TB
+
+Top level modules:
+	XOR_16BIT_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/DEMUX_8WAY.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/DEMUX_8WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DEMUX_8WAY
+
+Top level modules:
+	DEMUX_8WAY
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX_16BIT_4WAY.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX_16BIT_4WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_16BIT_4WAY
+
+Top level modules:
+	MUX_16BIT_4WAY
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/OR_16_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/OR_16_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module OR_16_TB
+
+Top level modules:
+	OR_16_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX_16BIT_8WAY_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX_16BIT_8WAY_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_16BIT_8WAY_TB
+
+Top level modules:
+	MUX_16BIT_8WAY_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/NOT_16_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/NOT_16_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module NOT_16_TB
+
+Top level modules:
+	NOT_16_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/XNOR_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/XNOR_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module XNOR_TB
+
+Top level modules:
+	XNOR_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/OR_4WAY.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/OR_4WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module OR_4WAY
+
+Top level modules:
+	OR_4WAY
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/XOR_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/XOR_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module XOR_TB
+
+Top level modules:
+	XOR_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/AND_3WAY.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/AND_3WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module AND_3WAY
+
+Top level modules:
+	AND_3WAY
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/OR_8WAY_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/OR_8WAY_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module OR_8WAY_TB
+
+Top level modules:
+	OR_8WAY_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX_4WAY.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX_4WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_4WAY
+
+Top level modules:
+	MUX_4WAY
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/OR_16.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/OR_16.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module OR_16
+
+Top level modules:
+	OR_16
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/NOT_16.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/NOT_16.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module NOT_16
+
+Top level modules:
+	NOT_16
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/XNOR.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/XNOR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module XNOR
+
+Top level modules:
+	XNOR
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX_16BIT_8WAY.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX_16BIT_8WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_16BIT_8WAY
+
+Top level modules:
+	MUX_16BIT_8WAY
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/AND_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/AND_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module AND_TB
+
+Top level modules:
+	AND_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/DEMUX_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/DEMUX_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DEMUX_TB
+
+Top level modules:
+	DEMUX_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/XOR.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/XOR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module XOR
+
+Top level modules:
+	XOR
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/OR_8WAY.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/OR_8WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module OR_8WAY
+
+Top level modules:
+	OR_8WAY
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX_8WAY.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX_8WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_8WAY
+
+Top level modules:
+	MUX_8WAY
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/AND.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/AND.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module AND
+
+Top level modules:
+	AND
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/DEMUX.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/DEMUX.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DEMUX_2WAY
+
+Top level modules:
+	DEMUX_2WAY
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/NOR_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/NOR_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module NOR_TB
+
+Top level modules:
+	NOR_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/AND_4WAY_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/AND_4WAY_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module AND_4WAY_TB
+
+Top level modules:
+	AND_4WAY_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/DEMUX_4WAY_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/DEMUX_4WAY_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DEMUX_4WAY_TB
+
+Top level modules:
+	DEMUX_4WAY_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/XOR_16BIT.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/XOR_16BIT.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module XOR_16
+
+Top level modules:
+	XOR_16
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX_16BIT_2WAY_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX_16BIT_2WAY_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_16BIT_2WAY_TB
+
+Top level modules:
+	MUX_16BIT_2WAY_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/AND_16_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/AND_16_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module AND_16_TB
+
+Top level modules:
+	AND_16_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/OR_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/OR_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module OR_TB
+
+Top level modules:
+	OR_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/NOT_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/NOT_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module NOT_TB
+
+Top level modules:
+	NOT_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX_16BIT.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX_16BIT.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_16BIT_2WAY
+
+Top level modules:
+	MUX_16BIT_2WAY
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX_TB.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/MUX_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_TB
+
+Top level modules:
+	MUX_TB
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/NOR.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/NOR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module NOR
+
+Top level modules:
+	NOR
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/AND_4WAY.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/AND_4WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module AND_4WAY
+
+Top level modules:
+	AND_4WAY
+
+} {} {}} C:/intelFPGA/18.0/modelsim_ase/win32aloem/DEMUX_4WAY.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/modelsim_ase/win32aloem/DEMUX_4WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DEMUX_4WAY
+
+Top level modules:
+	DEMUX_4WAY
+
+} {} {}}

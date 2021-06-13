@@ -1,0 +1,5 @@
+module NOT_16(out,in);
+output [15:0]out;
+input [15:0]in;
+NOT [15:0] not_16(out,in);
+endmodule

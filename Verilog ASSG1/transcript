@@ -1,0 +1,154 @@
+# Reading C:/intelFPGA/18.0/modelsim_ase/tcl/vsim/pref.tcl
+project open C:/intelFPGA/18.0/modelsim_ase/win32aloem/BasicProject
+# Loading project BasicProject
+# Compile of XOR_16BIT.v was successful.
+# Compile of XOR_16BIT.v failed with 1 errors.
+# Compile of XOR_16BIT_TB.v failed with 2 errors.
+# 2 compiles, 2 failed with 3 errors.
+# Compile of AND.v was successful.
+# Compile of AND_3WAY.v was successful.
+# Compile of AND_4WAY.v was successful.
+# Compile of AND_4WAY_TB.v was successful.
+# Compile of AND_16.v was successful.
+# Compile of AND_16_TB.v was successful.
+# Compile of AND_TB.v was successful.
+# Compile of MUX.v was successful.
+# Compile of MUX_4WAY.v was successful.
+# Compile of MUX_8WAY.v was successful.
+# Compile of MUX_16BIT.v was successful.
+# Compile of MUX_16BIT_2WAY_TB.v was successful.
+# Compile of MUX_16BIT_4WAY.v was successful.
+# Compile of MUX_16BIT_4WAY_TB.v was successful.
+# Compile of MUX_16BIT_8WAY.v was successful.
+# Compile of MUX_16BIT_8WAY_TB.v was successful.
+# Compile of MUX_TB.v was successful.
+# Compile of NOR.v was successful.
+# Compile of NOR_TB.v was successful.
+# Compile of NOT_16.v was successful.
+# Compile of NOT_16_TB.v was successful.
+# Compile of NOT_GATE.v was successful.
+# Compile of NOT_TB.v was successful.
+# Compile of OR.v was successful.
+# Compile of OR_4WAY.v was successful.
+# Compile of OR_8WAY.v was successful.
+# Compile of OR_8WAY_TB.v was successful.
+# Compile of OR_16.v was successful.
+# Compile of OR_16_TB.v was successful.
+# Compile of OR_TB.v was successful.
+# Compile of XNOR.v was successful.
+# Compile of XNOR_TB.v was successful.
+# Compile of XOR.v was successful.
+# Compile of XOR_TB.v was successful.
+# Compile of DEMUX.v was successful.
+# Compile of DEMUX_4WAY.v was successful.
+# Compile of DEMUX_TB.v was successful.
+# Compile of DEMUX_4WAY_TB.v was successful.
+# Compile of DEMUX_8WAY.v was successful.
+# Compile of DEMUX_8WAY_TB.v was successful.
+# Compile of XOR_16BIT.v was successful with warnings.
+# Compile of XOR_16BIT_TB.v failed with 1 errors.
+# 42 compiles, 1 failed with 1 error.
+# Compile of XOR_16BIT.v was successful.
+# Compile of XOR_16BIT_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.XOR_16BIT_YB
+# vsim -gui work.XOR_16BIT_YB 
+# Start time: 09:23:39 on Sep 10,2018
+# Loading work.XOR_16BIT_YB
+# ** Error: (vsim-3033) C:/intelFPGA/18.0/modelsim_ase/win32aloem/XOR_16BIT_TB.v(4): Instantiation of 'XOR_16BIT' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /XOR_16BIT_YB File: C:/intelFPGA/18.0/modelsim_ase/win32aloem/XOR_16BIT_TB.v
+#         Searched libraries:
+#             C:/intelFPGA/18.0/modelsim_ase/win32aloem/work
+# Error loading design
+# End time: 09:23:39 on Sep 10,2018, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# Load canceled
+# Compile of XOR_16BIT.v was successful.
+# Compile of XOR_16BIT_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.XOR_16BIT_TB
+# vsim -gui work.XOR_16BIT_TB 
+# Start time: 09:24:22 on Sep 10,2018
+# Loading work.XOR_16BIT_TB
+# ** Error: (vsim-3033) C:/intelFPGA/18.0/modelsim_ase/win32aloem/XOR_16BIT_TB.v(4): Instantiation of 'XOR_16BIT' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /XOR_16BIT_TB File: C:/intelFPGA/18.0/modelsim_ase/win32aloem/XOR_16BIT_TB.v
+#         Searched libraries:
+#             C:/intelFPGA/18.0/modelsim_ase/win32aloem/work
+# Error loading design
+# End time: 09:24:22 on Sep 10,2018, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vsim -gui work.MUX_16BIT_8WAY_TB
+# vsim -gui work.MUX_16BIT_8WAY_TB 
+# Start time: 09:25:00 on Sep 10,2018
+# Loading work.MUX_16BIT_8WAY_TB
+# Loading work.MUX_16BIT_8WAY
+# Loading work.MUX_8WAY
+# Loading work.NOT
+# Loading work.AND_4WAY
+# Loading work.AND_3WAY
+# Loading work.AND
+# Loading work.OR_8WAY
+# Loading work.OR_4WAY
+# Loading work.OR
+add wave -position insertpoint sim:/MUX_16BIT_8WAY_TB/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 09:26:01 on Sep 10,2018, Elapsed time: 0:01:01
+# Errors: 0, Warnings: 0
+# Load canceled
+# Compile of XOR_16BIT.v was successful.
+vsim -gui work.XOR_16BIT_TB
+# vsim -gui work.XOR_16BIT_TB 
+# Start time: 09:27:55 on Sep 10,2018
+# Loading work.XOR_16BIT_TB
+# ** Error: (vsim-3033) C:/intelFPGA/18.0/modelsim_ase/win32aloem/XOR_16BIT_TB.v(4): Instantiation of 'XOR_16BIT' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /XOR_16BIT_TB File: C:/intelFPGA/18.0/modelsim_ase/win32aloem/XOR_16BIT_TB.v
+#         Searched libraries:
+#             C:/intelFPGA/18.0/modelsim_ase/win32aloem/work
+# Error loading design
+# End time: 09:27:56 on Sep 10,2018, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+quit
