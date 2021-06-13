@@ -1,0 +1,340 @@
+C:/Users/USER/Desktop/ASSG3/RAM8.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/RAM8.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RAM8
+
+Top level modules:
+	RAM8
+
+} {} {}} /home/student/Desktop/MUX_16BIT_8WAY.v {1 {vlog -work work -stats=none /home/student/Desktop/MUX_16BIT_8WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_16BIT_8WAY
+
+Top level modules:
+	MUX_16BIT_8WAY
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/MUX_8WAY.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/MUX_8WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_8WAY
+
+Top level modules:
+	MUX_8WAY
+
+} {} {}} /home/student/Desktop/REGISTER_16BIT.v {1 {vlog -work work -stats=none /home/student/Desktop/REGISTER_16BIT.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module REGISTER_16BIT
+
+Top level modules:
+	REGISTER_16BIT
+
+} {} {}} /home/student/Desktop/RISINGEDGE_DFF_TB.v {1 {vlog -work work -stats=none /home/student/Desktop/RISINGEDGE_DFF_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RISINGEDGE_DFF_TB
+
+Top level modules:
+	RISINGEDGE_DFF_TB
+
+} {} {}} /home/student/Desktop/MUX_16BIT_2WAY_TB.v {1 {vlog -work work -stats=none /home/student/Desktop/MUX_16BIT_2WAY_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_16BIT_2WAY_TB
+
+Top level modules:
+	MUX_16BIT_2WAY_TB
+
+} {} {}} /home/student/Desktop/MUX_16BIT_4WAY_TB.v {1 {vlog -work work -stats=none /home/student/Desktop/MUX_16BIT_4WAY_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_16BIT_4WAY_TB
+
+Top level modules:
+	MUX_16BIT_4WAY_TB
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/GATED_DLATCH.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/GATED_DLATCH.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module GATED_DLATCH
+
+Top level modules:
+	GATED_DLATCH
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/MUX_2WAY.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/MUX_2WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_2WAY
+
+Top level modules:
+	MUX_2WAY
+
+} {} {}} /home/student/Desktop/MUX_16BIT_8WAY_TB.v {1 {vlog -work work -stats=none /home/student/Desktop/MUX_16BIT_8WAY_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_16BIT_8WAY_TB
+
+Top level modules:
+	MUX_16BIT_8WAY_TB
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/MUX_16BIT_8WAY.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/MUX_16BIT_8WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_16BIT_8WAY
+
+Top level modules:
+	MUX_16BIT_8WAY
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/RE_SRESET_DFF_TB.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/RE_SRESET_DFF_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RE_SRESET_DFF_TB
+
+Top level modules:
+	RE_SRESET_DFF_TB
+
+} {} {}} /home/student/Desktop/RAM8.v {1 {vlog -work work -stats=none /home/student/Desktop/RAM8.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RAM8
+
+Top level modules:
+	RAM8
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/REGISTER_16BIT.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/REGISTER_16BIT.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module REGISTER_16BIT
+
+Top level modules:
+	REGISTER_16BIT
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/RE_SRESET_DFF.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/RE_SRESET_DFF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RE_SRESET_DFF
+
+Top level modules:
+	RE_SRESET_DFF
+
+} {} {}} /home/student/Desktop/MUX_8WAY.v {1 {vlog -work work -stats=none /home/student/Desktop/MUX_8WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_8WAY
+
+Top level modules:
+	MUX_8WAY
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/RE_ARESET_HL_DFF.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/RE_ARESET_HL_DFF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RE_ARESET_HL_DFF
+
+Top level modules:
+	RE_ARESET_HL_DFF
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/MUX_TB.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/MUX_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_TB
+
+Top level modules:
+	MUX_TB
+
+} {} {}} /home/student/Desktop/REGISTER_16BIT_TB.v {1 {vlog -work work -stats=none /home/student/Desktop/REGISTER_16BIT_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module REGISTER_16BIT_TB
+
+Top level modules:
+	REGISTER_16BIT_TB
+
+} {} {}} /home/student/Desktop/MUX_16BIT.v {1 {vlog -work work -stats=none /home/student/Desktop/MUX_16BIT.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_16BIT_2WAY
+
+Top level modules:
+	MUX_16BIT_2WAY
+
+} {} {}} /home/student/Desktop/MUX_16BIT_4WAY.v {1 {vlog -work work -stats=none /home/student/Desktop/MUX_16BIT_4WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_16BIT_4WAY
+
+Top level modules:
+	MUX_16BIT_4WAY
+
+} {} {}} /home/student/Desktop/GATED_DLATCH.v {1 {vlog -work work -stats=none /home/student/Desktop/GATED_DLATCH.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module GATED_DLATCH
+
+Top level modules:
+	GATED_DLATCH
+
+} {} {}} /home/student/Desktop/MUX_2WAY.v {1 {vlog -work work -stats=none /home/student/Desktop/MUX_2WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_2WAY
+
+Top level modules:
+	MUX_2WAY
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/MUX_4WAY.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/MUX_4WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_4WAY
+
+Top level modules:
+	MUX_4WAY
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/GATED_DLATCH_TB.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/GATED_DLATCH_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module GATED_DLATCH_TB
+
+Top level modules:
+	GATED_DLATCH_TB
+
+} {} {}} /home/student/Desktop/RE_SRESET_DFF_TB.v {1 {vlog -work work -stats=none /home/student/Desktop/RE_SRESET_DFF_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RE_SRESET_DFF_TB
+
+Top level modules:
+	RE_SRESET_DFF_TB
+
+} {} {}} /home/student/Desktop/RISINGEDGE_DFF.v {1 {vlog -work work -stats=none /home/student/Desktop/RISINGEDGE_DFF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RISINGEDGE_DFF
+
+Top level modules:
+	RISINGEDGE_DFF
+
+} {} {}} /home/student/Desktop/GATED_DLATCH_TB.v {1 {vlog -work work -stats=none /home/student/Desktop/GATED_DLATCH_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module GATED_DLATCH_TB
+
+Top level modules:
+	GATED_DLATCH_TB
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/BINARY_CELL.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/BINARY_CELL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BINARY_CELL
+
+Top level modules:
+	BINARY_CELL
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/RISINGEDGE_DFF_TB.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/RISINGEDGE_DFF_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RISINGEDGE_DFF_TB
+
+Top level modules:
+	RISINGEDGE_DFF_TB
+
+} {} {}} /home/student/Desktop/BINARY_CELL.v {1 {vlog -work work -stats=none /home/student/Desktop/BINARY_CELL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BINARY_CELL
+
+Top level modules:
+	BINARY_CELL
+
+} {} {}} /home/student/Desktop/RE_ARESET_HL_DFF.v {1 {vlog -work work -stats=none /home/student/Desktop/RE_ARESET_HL_DFF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RE_ARESET_HL_DFF
+
+Top level modules:
+	RE_ARESET_HL_DFF
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/MUX_16BIT_2WAY_TB.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/MUX_16BIT_2WAY_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_16BIT_2WAY_TB
+
+Top level modules:
+	MUX_16BIT_2WAY_TB
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/MUX_16BIT_4WAY_TB.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/MUX_16BIT_4WAY_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_16BIT_4WAY_TB
+
+Top level modules:
+	MUX_16BIT_4WAY_TB
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/RE_ARESET_HL_DFF_TB.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/RE_ARESET_HL_DFF_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RE_ARESET_HL_DFF_TB
+
+Top level modules:
+	RE_ARESET_HL_DFF_TB
+
+} {} {}} /home/student/Desktop/RE_ARESET_HL_DFF_TB.v {1 {vlog -work work -stats=none /home/student/Desktop/RE_ARESET_HL_DFF_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RE_ARESET_HL_DFF_TB
+
+Top level modules:
+	RE_ARESET_HL_DFF_TB
+
+} {} {}} /home/student/Desktop/BINARY_CELL_TB.v {1 {vlog -work work -stats=none /home/student/Desktop/BINARY_CELL_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BINARY_CELL_TB
+
+Top level modules:
+	BINARY_CELL_TB
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/MUX_16BIT_4WAY.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/MUX_16BIT_4WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_16BIT_4WAY
+
+Top level modules:
+	MUX_16BIT_4WAY
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/MUX_16BIT_8WAY_TB.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/MUX_16BIT_8WAY_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_16BIT_8WAY_TB
+
+Top level modules:
+	MUX_16BIT_8WAY_TB
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/RISINGEDGE_DFF.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/RISINGEDGE_DFF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RISINGEDGE_DFF
+
+Top level modules:
+	RISINGEDGE_DFF
+
+} {} {}} /home/student/Desktop/MUX_4WAY.v {1 {vlog -work work -stats=none /home/student/Desktop/MUX_4WAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_4WAY
+
+Top level modules:
+	MUX_4WAY
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/MUX.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/MUX.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} /home/student/Desktop/MUX.v {1 {vlog -work work -stats=none /home/student/Desktop/MUX.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} /home/student/Desktop/RE_SRESET_DFF.v {1 {vlog -work work -stats=none /home/student/Desktop/RE_SRESET_DFF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RE_SRESET_DFF
+
+Top level modules:
+	RE_SRESET_DFF
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/RAM8_TB.v {0 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/RAM8_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RAM8_TB
+** Error: (vlog-13069) C:/Users/USER/Desktop/ASSG3/RAM8_TB.v(17): near "EOF": syntax error, unexpected end of source code, expecting ';'.
+
+} {4.0 5.0} {}} /home/student/Desktop/RAM8_TB.v {0 {vlog -work work -stats=none /home/student/Desktop/RAM8_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RAM8_TB
+** Error: (vlog-13069) /home/student/Desktop/RAM8_TB.v(17): near "EOF": syntax error, unexpected end of source code, expecting ';'.
+
+} {4.0 5.0} {}} C:/Users/USER/Desktop/ASSG3/MUX_16BIT.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/MUX_16BIT.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX_16BIT_2WAY
+
+Top level modules:
+	MUX_16BIT_2WAY
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/REGISTER_16BIT_TB.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/REGISTER_16BIT_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module REGISTER_16BIT_TB
+
+Top level modules:
+	REGISTER_16BIT_TB
+
+} {} {}} C:/Users/USER/Desktop/ASSG3/BINARY_CELL_TB.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/ASSG3/BINARY_CELL_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BINARY_CELL_TB
+
+Top level modules:
+	BINARY_CELL_TB
+
+} {} {}}

@@ -1,0 +1,8 @@
+module RE_SRESET_DFF(q,q_bar,reset,d,clk);
+output q,q_bar;
+input reset,d,clk;
+wire temp,d_bar;
+nand(d_bar,d,d);
+nand(temp,d_bar,reset);
+RISINGEDGE_DFF RSDFF1(q,q_bar,temp,clk);
+endmodule

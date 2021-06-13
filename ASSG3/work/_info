@@ -1,0 +1,538 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/USER/Desktop/ASSG3
+vBINARY_CELL
+!s110 1539769231
+!i10b 1
+!s100 VWf:;Pk;UfT?Xm0ZU_S;M1
+I_o?3<TESXh>TfOhZOcE3_3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z2 w1539768961
+8C:/Users/USER/Desktop/ASSG3/BINARY_CELL.v
+FC:/Users/USER/Desktop/ASSG3/BINARY_CELL.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1539769231.000000
+!s107 C:/Users/USER/Desktop/ASSG3/BINARY_CELL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/BINARY_CELL.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@b@i@n@a@r@y_@c@e@l@l
+vBINARY_CELL_TB
+Z6 !s110 1539769232
+!i10b 1
+!s100 cM7zIJzlz[dUCWhlEN[al0
+IMFQI0VU`hlHfec?eO;RbW3
+R1
+R0
+R2
+8C:/Users/USER/Desktop/ASSG3/BINARY_CELL_TB.v
+FC:/Users/USER/Desktop/ASSG3/BINARY_CELL_TB.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1539769232.000000
+!s107 C:/Users/USER/Desktop/ASSG3/BINARY_CELL_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/BINARY_CELL_TB.v|
+!i113 1
+R4
+R5
+n@b@i@n@a@r@y_@c@e@l@l_@t@b
+vGATED_DLATCH
+R6
+!i10b 1
+!s100 nXdC3Roz?`o^NjdmmlAiX3
+IcBT4cMJmgDdT88mE3WT@U0
+R1
+R0
+R2
+8C:/Users/USER/Desktop/ASSG3/GATED_DLATCH.v
+FC:/Users/USER/Desktop/ASSG3/GATED_DLATCH.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/USER/Desktop/ASSG3/GATED_DLATCH.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/GATED_DLATCH.v|
+!i113 1
+R4
+R5
+n@g@a@t@e@d_@d@l@a@t@c@h
+vGATED_DLATCH_TB
+R6
+!i10b 1
+!s100 NNdBYef51<Q=E=@FO2lfb2
+IGMZWSZjz8FZbfJJ;8BE5I2
+R1
+R0
+R2
+8C:/Users/USER/Desktop/ASSG3/GATED_DLATCH_TB.v
+FC:/Users/USER/Desktop/ASSG3/GATED_DLATCH_TB.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/USER/Desktop/ASSG3/GATED_DLATCH_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/GATED_DLATCH_TB.v|
+!i113 1
+R4
+R5
+n@g@a@t@e@d_@d@l@a@t@c@h_@t@b
+vMUX
+R6
+!i10b 1
+!s100 H<egdWKWoPjRL0laAQomC3
+ICK9>^Z43?^CI1ZAKYZiRd1
+R1
+R0
+R2
+8C:/Users/USER/Desktop/ASSG3/MUX.v
+FC:/Users/USER/Desktop/ASSG3/MUX.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/USER/Desktop/ASSG3/MUX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/MUX.v|
+!i113 1
+R4
+R5
+n@m@u@x
+vMUX_16BIT_2WAY
+Z8 !s110 1539769233
+!i10b 1
+!s100 QTb=5Fe1R533iJ`h>A6fP0
+IoPdh8^JkXSE=C?hT5g[>k0
+R1
+R0
+R2
+8C:/Users/USER/Desktop/ASSG3/MUX_16BIT.v
+FC:/Users/USER/Desktop/ASSG3/MUX_16BIT.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1539769233.000000
+!s107 C:/Users/USER/Desktop/ASSG3/MUX_16BIT.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/MUX_16BIT.v|
+!i113 1
+R4
+R5
+n@m@u@x_16@b@i@t_2@w@a@y
+vMUX_16BIT_2WAY_TB
+R8
+!i10b 1
+!s100 d]Y1Pe:iCmZ5FTEV;^JOl3
+Idg<_3BcoPdV3SbXaXIFLa2
+R1
+R0
+Z10 w1539768962
+8C:/Users/USER/Desktop/ASSG3/MUX_16BIT_2WAY_TB.v
+FC:/Users/USER/Desktop/ASSG3/MUX_16BIT_2WAY_TB.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/USER/Desktop/ASSG3/MUX_16BIT_2WAY_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/MUX_16BIT_2WAY_TB.v|
+!i113 1
+R4
+R5
+n@m@u@x_16@b@i@t_2@w@a@y_@t@b
+vMUX_16BIT_4WAY
+R8
+!i10b 1
+!s100 cWNZVK7=bPf4XM9z2`eT?2
+I@KMF;;^Z[cG743kGa4aT41
+R1
+R0
+R10
+8C:/Users/USER/Desktop/ASSG3/MUX_16BIT_4WAY.v
+FC:/Users/USER/Desktop/ASSG3/MUX_16BIT_4WAY.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/USER/Desktop/ASSG3/MUX_16BIT_4WAY.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/MUX_16BIT_4WAY.v|
+!i113 1
+R4
+R5
+n@m@u@x_16@b@i@t_4@w@a@y
+vMUX_16BIT_4WAY_TB
+Z11 !s110 1539769234
+!i10b 1
+!s100 _O54IZHWglZ5m4Lfko`P`2
+I`X;48NeI=:n<EdB0>4<e<0
+R1
+R0
+R10
+8C:/Users/USER/Desktop/ASSG3/MUX_16BIT_4WAY_TB.v
+FC:/Users/USER/Desktop/ASSG3/MUX_16BIT_4WAY_TB.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/USER/Desktop/ASSG3/MUX_16BIT_4WAY_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/MUX_16BIT_4WAY_TB.v|
+!i113 1
+R4
+R5
+n@m@u@x_16@b@i@t_4@w@a@y_@t@b
+vMUX_16BIT_8WAY
+R11
+!i10b 1
+!s100 o1KLPY1YO6;Nb4l8b@_ig2
+Ie5KKb]mhW_Ri0cCEQ2lDY2
+R1
+R0
+R10
+8C:/Users/USER/Desktop/ASSG3/MUX_16BIT_8WAY.v
+FC:/Users/USER/Desktop/ASSG3/MUX_16BIT_8WAY.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z12 !s108 1539769234.000000
+!s107 C:/Users/USER/Desktop/ASSG3/MUX_16BIT_8WAY.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/MUX_16BIT_8WAY.v|
+!i113 1
+R4
+R5
+n@m@u@x_16@b@i@t_8@w@a@y
+vMUX_16BIT_8WAY_TB
+R11
+!i10b 1
+!s100 kKMmPX]cmmR[LlLgS@lPl3
+I;WBQPA6nTX=Wz7MSOc?Ed2
+R1
+R0
+R10
+8C:/Users/USER/Desktop/ASSG3/MUX_16BIT_8WAY_TB.v
+FC:/Users/USER/Desktop/ASSG3/MUX_16BIT_8WAY_TB.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/USER/Desktop/ASSG3/MUX_16BIT_8WAY_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/MUX_16BIT_8WAY_TB.v|
+!i113 1
+R4
+R5
+n@m@u@x_16@b@i@t_8@w@a@y_@t@b
+vMUX_2WAY
+R6
+!i10b 1
+!s100 No<iIkS3m1>[]@4BkK>0@0
+ITYU^eF4^@S:Z0HhC3Dkcc2
+R1
+R0
+R2
+8C:/Users/USER/Desktop/ASSG3/MUX_2WAY.v
+FC:/Users/USER/Desktop/ASSG3/MUX_2WAY.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/USER/Desktop/ASSG3/MUX_2WAY.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/MUX_2WAY.v|
+!i113 1
+R4
+R5
+n@m@u@x_2@w@a@y
+vMUX_4WAY
+R8
+!i10b 1
+!s100 ?`i<5NSVG?]ZDRF0aF3gH0
+IIA[A37jM?l25Udk:R?S]o1
+R1
+R0
+R2
+8C:/Users/USER/Desktop/ASSG3/MUX_4WAY.v
+FC:/Users/USER/Desktop/ASSG3/MUX_4WAY.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/USER/Desktop/ASSG3/MUX_4WAY.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/MUX_4WAY.v|
+!i113 1
+R4
+R5
+n@m@u@x_4@w@a@y
+vMUX_8WAY
+R8
+!i10b 1
+!s100 m1TS;I:Vm`HoJmLeiY9zD1
+I]oKPlI2mCLB:VBaJ`mmPi0
+R1
+R0
+R2
+8C:/Users/USER/Desktop/ASSG3/MUX_8WAY.v
+FC:/Users/USER/Desktop/ASSG3/MUX_8WAY.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/USER/Desktop/ASSG3/MUX_8WAY.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/MUX_8WAY.v|
+!i113 1
+R4
+R5
+n@m@u@x_8@w@a@y
+vMUX_TB
+R11
+!i10b 1
+!s100 :5_P[_CE8^nIg>Oj1L^IE1
+IK:;>cO0lEkX`]YE]b@T@<0
+R1
+R0
+R10
+8C:/Users/USER/Desktop/ASSG3/MUX_TB.v
+FC:/Users/USER/Desktop/ASSG3/MUX_TB.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/USER/Desktop/ASSG3/MUX_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/MUX_TB.v|
+!i113 1
+R4
+R5
+n@m@u@x_@t@b
+vRAM8
+R11
+!i10b 1
+!s100 cfC>zoP>dbK465lB4?95?1
+IH6UjOeVRW0K[z=?ilU_Q^1
+R1
+R0
+R10
+8C:/Users/USER/Desktop/ASSG3/RAM8.v
+FC:/Users/USER/Desktop/ASSG3/RAM8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/USER/Desktop/ASSG3/RAM8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/RAM8.v|
+!i113 1
+R4
+R5
+n@r@a@m8
+vRE_ARESET_HL_DFF
+Z13 !s110 1539769235
+!i10b 1
+!s100 ?YK<83k=:CzMPoAm`1Pll2
+IJW^VG<B9:18?3gki_Y>8f3
+R1
+R0
+R10
+8C:/Users/USER/Desktop/ASSG3/RE_ARESET_HL_DFF.v
+FC:/Users/USER/Desktop/ASSG3/RE_ARESET_HL_DFF.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z14 !s108 1539769235.000000
+!s107 C:/Users/USER/Desktop/ASSG3/RE_ARESET_HL_DFF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/RE_ARESET_HL_DFF.v|
+!i113 1
+R4
+R5
+n@r@e_@a@r@e@s@e@t_@h@l_@d@f@f
+vRE_ARESET_HL_DFF_TB
+R13
+!i10b 1
+!s100 P2V^o1heKD7bohJS^2c@71
+IIB4c50DS[9COT37FFaZFT2
+R1
+R0
+R10
+8C:/Users/USER/Desktop/ASSG3/RE_ARESET_HL_DFF_TB.v
+FC:/Users/USER/Desktop/ASSG3/RE_ARESET_HL_DFF_TB.v
+L0 1
+R3
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/USER/Desktop/ASSG3/RE_ARESET_HL_DFF_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/RE_ARESET_HL_DFF_TB.v|
+!i113 1
+R4
+R5
+n@r@e_@a@r@e@s@e@t_@h@l_@d@f@f_@t@b
+vRE_SRESET_DFF
+R13
+!i10b 1
+!s100 dNBBSHfRekW7EImcfT;?W2
+I7R=ZBhL<6zIVgBKZRYKeW2
+R1
+R0
+R10
+8C:/Users/USER/Desktop/ASSG3/RE_SRESET_DFF.v
+FC:/Users/USER/Desktop/ASSG3/RE_SRESET_DFF.v
+L0 1
+R3
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/USER/Desktop/ASSG3/RE_SRESET_DFF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/RE_SRESET_DFF.v|
+!i113 1
+R4
+R5
+n@r@e_@s@r@e@s@e@t_@d@f@f
+vRE_SRESET_DFF_TB
+Z15 !s110 1539769236
+!i10b 1
+!s100 SMUljo]9=?fz0K5G6F^az2
+IJI54CRoHMGVeQ`9MBl^=O0
+R1
+R0
+R10
+8C:/Users/USER/Desktop/ASSG3/RE_SRESET_DFF_TB.v
+FC:/Users/USER/Desktop/ASSG3/RE_SRESET_DFF_TB.v
+L0 1
+R3
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/USER/Desktop/ASSG3/RE_SRESET_DFF_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/RE_SRESET_DFF_TB.v|
+!i113 1
+R4
+R5
+n@r@e_@s@r@e@s@e@t_@d@f@f_@t@b
+vREGISTER_16BIT
+R15
+!i10b 1
+!s100 ILc_`>0_cX7Ak:<9N7Db_2
+IHBf91IcLEPP:b=`hEzW<I3
+R1
+R0
+R10
+8C:/Users/USER/Desktop/ASSG3/REGISTER_16BIT.v
+FC:/Users/USER/Desktop/ASSG3/REGISTER_16BIT.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z16 !s108 1539769236.000000
+!s107 C:/Users/USER/Desktop/ASSG3/REGISTER_16BIT.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/REGISTER_16BIT.v|
+!i113 1
+R4
+R5
+n@r@e@g@i@s@t@e@r_16@b@i@t
+vREGISTER_16BIT_TB
+R15
+!i10b 1
+!s100 GRS_JHNVnXjkU8zK1CGTk0
+Ik?<`I<VKHMVbQG;^ZLBm^1
+R1
+R0
+R10
+8C:/Users/USER/Desktop/ASSG3/REGISTER_16BIT_TB.v
+FC:/Users/USER/Desktop/ASSG3/REGISTER_16BIT_TB.v
+L0 1
+R3
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/USER/Desktop/ASSG3/REGISTER_16BIT_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/REGISTER_16BIT_TB.v|
+!i113 1
+R4
+R5
+n@r@e@g@i@s@t@e@r_16@b@i@t_@t@b
+vRISINGEDGE_DFF
+!s110 1539769450
+!i10b 1
+!s100 ?4]?=ScjDgLhGID4:i<aY3
+IRJe_`n27iC[Eag8k^BK4Q0
+R1
+R0
+w1539769442
+8C:/Users/USER/Desktop/ASSG3/RISINGEDGE_DFF.v
+FC:/Users/USER/Desktop/ASSG3/RISINGEDGE_DFF.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1539769450.000000
+!s107 C:/Users/USER/Desktop/ASSG3/RISINGEDGE_DFF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/RISINGEDGE_DFF.v|
+!i113 1
+R4
+R5
+n@r@i@s@i@n@g@e@d@g@e_@d@f@f
+vRISINGEDGE_DFF_TB
+!s110 1539769861
+!i10b 1
+!s100 ^lF10>SAbo?J:[mZeofkP3
+IGR_ccH][oVI8U;kY__Fn11
+R1
+R0
+w1539769851
+8C:/Users/USER/Desktop/ASSG3/RISINGEDGE_DFF_TB.v
+FC:/Users/USER/Desktop/ASSG3/RISINGEDGE_DFF_TB.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1539769861.000000
+!s107 C:/Users/USER/Desktop/ASSG3/RISINGEDGE_DFF_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/ASSG3/RISINGEDGE_DFF_TB.v|
+!i113 1
+R4
+R5
+n@r@i@s@i@n@g@e@d@g@e_@d@f@f_@t@b

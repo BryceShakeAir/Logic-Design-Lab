@@ -1,0 +1,8 @@
+module RISINGEDGE_DFF(q,q_bar,d,clk);
+input d,clk;
+output q,q_bar;
+wire clk_not,qm,qm_bar;
+nand(clk_not,clk,clk);
+GATED_DLATCH GDL1(qm,qm_bar,clk_not,d);
+GATED_DLATCH GDL2(q,q_bar,clk,qm);
+endmodule

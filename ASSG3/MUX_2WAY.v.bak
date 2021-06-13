@@ -1,0 +1,10 @@
+module MUX_2WAY(out,in1,in0,s0);
+output out;
+input in0,in1,s0;
+wire min0,min1,s0_bar;
+not(s0_bar,s0);
+and(min0,in0,s0_bar);
+and(min1,in1,s0);
+or(out,min0,min1);
+endmodule
+
